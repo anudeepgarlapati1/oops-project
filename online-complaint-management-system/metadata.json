@@ -1,0 +1,5 @@
+{
+  "name": "Online Complaint Management System",
+  "description": "An AI-powered online complaint management system to streamline tracking, categorization, and resolution of customer issues. It uses Gemini to automatically suggest categories, summarize complaints, and generate response drafts.",
+  "requestFramePermissions": []
+}
